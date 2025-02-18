@@ -481,62 +481,9 @@
           "show_newsletter": true,
           "apparition_delay": 5
         }
-      },
-      "1533077274726": {
-        "type": "featured-collections",
-        "blocks": {
-          "1533077274726-0": {
-            "type": "collection",
-            "settings": {
-              "collection": "bracelets",
-              "title": "",
-              "grid_items_count": 8,
-              "button_text": "View all products"
-            }
-          }
-        },
-        "block_order": [
-          "1533077274726-0"
-        ],
-        "settings": {
-          "title": "Featured collection",
-          "layout_mode": "grid",
-          "show_product_info": true,
-          "show_color_swatch": false,
-          "grid_mobile_items_per_row": "2",
-          "grid_desktop_items_per_row": 4
-        }
-      },
-      "featured_product_QEJtk4": {
-        "type": "featured-product",
-        "settings": {
-          "subheading": "",
-          "title": "Featured product",
-          "show_headings_on_mobile": true,
-          "product": "",
-          "show_vendor": true,
-          "show_description": true,
-          "description_below_add_to_cart": false,
-          "show_color_swatch": true,
-          "show_color_carousel": false,
-          "show_quantity_selector": true,
-          "show_inventory_quantity": false,
-          "inventory_quantity_threshold": 0,
-          "show_payment_button": false
-        }
       }
     },
-    "content_for_index": [
-      "featured-collections",
-      "1533077274726",
-      "slideshow",
-      "collection-list",
-      "featured-product",
-      "timeline",
-      "blog-posts",
-      "shop-the-look",
-      "featured_product_QEJtk4"
-    ]
+    "content_for_index": []
   },
   "presets": {
     "Allure": {
